@@ -23,7 +23,7 @@
 
   <modules>
     <module>server</module>
-    <module>first</module>
+    <module>webapp</module>
   </modules>
 
   <distributionManagement>
